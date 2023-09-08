@@ -5,6 +5,6 @@ app.get("/", (req, res) => {
   res.send("Deva Aji Saputra GANTENGGG");
 });
 
-app.listen(3030, () => {
-  console.log("Server is listening on port 3030");
+app.listen(3000, () => {
+  console.log("Server is listening on port 3000");
 });
